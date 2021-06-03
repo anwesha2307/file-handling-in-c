@@ -14,7 +14,7 @@ int main( )
     char dataToBeWritten[500]
         = "hello world this is an assignment of week 1 of open source lab. this is submitted by anwesha singh, batch b4 and enroll 18103124";
 
-    // Open the existing file GfgTest.c using fopen()
+   
     // in write mode using "w" attribute
     filePointer = fopen("newfile.txt", "w") ;
 
